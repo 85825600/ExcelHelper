@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EXCEL>
+  <SHEET name="复杂表头报表">
+    <STYLE id="first" bgcolor="9" fontsize="16" fontcolor="64" boldweight="500" align="2" border="true" />
+    <STYLE id="second" bgcolor="50" fontsize="14" fontcolor="64" boldweight="400" align="2" border="true" />
+    <STYLE id="third" bgcolor="42" fontsize="12" fontcolor="64" boldweight="400" align="2" border="true" />
+    <STYLE id="forth" bgcolor="9" fontsize="12" fontcolor="64" boldweight="0" align="4" border="true" />
+    <TITLE>
+      <ROW rownum="0" style="first">
+        <COL colnum="0" rowspan="1" colspan="21">
+          @date@city@target复杂表头报表
+        </COL>
+      </ROW>
+      <ROW rownum="1" style="second">
+        <COL colnum="0" rowspan="1" colspan="1">
+          字段A
+        </COL>
+        <COL colnum="1" rowspan="1" colspan="2">
+          字段B
+        </COL>
+        <COL colnum="3" rowspan="1" colspan="2">
+          字段C
+        </COL>
+        <COL colnum="5" rowspan="1" colspan="2">
+          字段D
+        </COL>
+        <COL colnum="7" rowspan="1" colspan="2">
+          字段E
+        </COL>
+        <COL colnum="9" rowspan="1" colspan="2">
+          字段F
+        </COL>
+        <COL colnum="11" rowspan="1" colspan="2">
+          字段G
+        </COL>
+        <COL colnum="13" rowspan="1" colspan="2">
+          字段H
+        </COL>
+        <COL colnum="15" rowspan="1" colspan="2">
+          字段I
+        </COL>
+        <COL colnum="17" rowspan="1" colspan="2">
+          字段J
+        </COL>
+        <COL colnum="19" rowspan="1" colspan="2">
+          字段K
+        </COL>
+      </ROW>
+      <ROW rownum="2" style="third">
+        <COL colnum="0" rowspan="1" colspan="1">
+          字段A1
+        </COL>
+        <COL colnum="1" rowspan="1" colspan="1">
+          字段B1
+        </COL>
+        <COL colnum="2" rowspan="1" colspan="1">
+          字段B2
+        </COL>
+        <COL colnum="3" rowspan="1" colspan="1">
+          字段C1
+        </COL>
+        <COL colnum="4" rowspan="1" colspan="1">
+          字段C2
+        </COL>
+        <COL colnum="5" rowspan="1" colspan="1">
+          字段D1
+        </COL>
+        <COL colnum="6" rowspan="1" colspan="1">
+          字段D2
+        </COL>
+        <COL colnum="7" rowspan="1" colspan="1">
+          字段E1
+        </COL>
+        <COL colnum="8" rowspan="1" colspan="1">
+          字段E2
+        </COL>
+        <COL colnum="9" rowspan="1" colspan="1">
+          字段F1
+        </COL>
+        <COL colnum="10" rowspan="1" colspan="1">
+          字段F2
+        </COL>
+        <COL colnum="11" rowspan="1" colspan="1">
+          字段G1
+        </COL>
+        <COL colnum="12" rowspan="1" colspan="1">
+          字段F2
+        </COL>
+        <COL colnum="13" rowspan="1" colspan="1">
+          字段H1
+        </COL>
+        <COL colnum="14" rowspan="1" colspan="1">
+          字段H2
+        </COL>
+        <COL colnum="15" rowspan="1" colspan="1">
+          字段I1
+        </COL>
+        <COL colnum="16" rowspan="1" colspan="1">
+          字段I2
+        </COL>
+        <COL colnum="17" rowspan="1" colspan="1">
+          字段J1
+        </COL>
+        <COL colnum="18" rowspan="1" colspan="1">
+          字段J2
+        </COL>
+        <COL colnum="19" rowspan="1" colspan="1">
+          字段K1
+        </COL>
+        <COL colnum="20" rowspan="1" colspan="1">
+          字段K2
+        </COL>
+      </ROW>
+    </TITLE>
+    <DATA rownum="3" colnum="0" direction="col" style="forth">
+    </DATA>
+  </SHEET>
+  <SHEET name="简单表头报表">
+    <STYLE id="first" bgcolor="9" fontsize="16" fontcolor="64" boldweight="500" align="2" border="true" />
+    <STYLE id="second" bgcolor="42" fontsize="12" fontcolor="64" boldweight="400" align="2" border="true" />
+    <STYLE id="third" bgcolor="9" fontsize="12" fontcolor="64" boldweight="0" align="4" border="true" />
+    <TITLE>
+      <ROW rownum="0" style="first">
+        <COL colnum="0" rowspan="1" colspan="13">
+          @date@city@target简单表头报表
+        </COL>
+      </ROW>
+      <ROW rownum="1" style="second">
+        <COL colnum="0" rowspan="1" colspan="1">
+          字段A
+        </COL>
+        <COL colnum="1" rowspan="1" colspan="1">
+          字段B
+        </COL>
+        <COL colnum="2" rowspan="1" colspan="1">
+          字段C
+        </COL>
+        <COL colnum="3" rowspan="1" colspan="1">
+          字段D
+        </COL>
+        <COL colnum="4" rowspan="1" colspan="1">
+          字段E
+        </COL>
+        <COL colnum="5" rowspan="1" colspan="1">
+          字段F
+        </COL>
+        <COL colnum="6" rowspan="1" colspan="1">
+          字段G
+        </COL>
+        <COL colnum="7" rowspan="1" colspan="1">
+          字段H
+        </COL>
+        <COL colnum="8" rowspan="1" colspan="1">
+          字段I
+        </COL>
+        <COL colnum="9" rowspan="1" colspan="1">
+          字段J
+        </COL>
+        <COL colnum="10" rowspan="1" colspan="1">
+          字段K
+        </COL>
+        <COL colnum="11" rowspan="1" colspan="1">
+          字段L
+        </COL>
+        <COL colnum="12" rowspan="1" colspan="1">
+          字段M
+        </COL>
+      </ROW>
+    </TITLE>
+    <DATA rownum="2" colnum="0" direction="col" style="third">
+    </DATA>
+  </SHEET>
+</EXCEL>
